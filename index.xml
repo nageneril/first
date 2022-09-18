@@ -99,4 +99,125 @@
       <note number="4" values="1,2,3,4,5,6,7,18"/>
     </notes>
   </exercise>
+  <exercise number="10">
+    <scale>major</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,2,3,4,5,6,7,18"/>
+      <note number="2" values="1,2,3,4,5,6,7,18"/>
+      <note number="3" values="1,2,3,4,5,6,7,18"/>
+      <note number="4" values="1,2,3,4,5,6,7,18"/>
+    </notes>
+  </exercise>
+  <exercise number="11">
+    <scale>major</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,2,3,4,5,6,7,18"/>
+      <note number="2" values="1,2,3,4,5,6,7,18"/>
+      <note number="3" values="1,2,3,4,5,6,7,18"/>
+      <note number="4" values="1,2,3,4,5,6,7,18"/>
+    </notes>
+  </exercise>
+  <exercise number="12">
+    <scale>major</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,2,3,4,5,6,7,18"/>
+      <note number="2" values="1,2,3,4,5,6,7,18"/>
+      <note number="3" values="1,2,3,4,5,6,7,18"/>
+      <note number="4" values="1,2,3,4,5,6,7,18"/>
+    </notes>
+  </exercise>
+  <exercise number="13">
+    <scale>major</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,2,3,4,5,6,7,18"/>
+      <note number="2" values="1,2,3,4,5,6,7,18"/>
+      <note number="3" values="1,2,3,4,5,6,7,18"/>
+      <note number="4" values="1,2,3,4,5,6,7,18"/>
+    </notes>
+  </exercise>
+  <exercise number="14">
+    <scale>major</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,2,3,4,5,6,7,18"/>
+      <note number="2" values="1,2,3,4,5,6,7,18"/>
+      <note number="3" values="1,2,3,4,5,6,7,18"/>
+      <note number="4" values="1,2,3,4,5,6,7,18"/>
+    </notes>
+  </exercise>
+  <exercise number="15">
+    <scale>major</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,2,3,4,5,6,7,18"/>
+      <note number="2" values="1,2,3,4,5,6,7,18"/>
+      <note number="3" values="1,2,3,4,5,6,7,18"/>
+      <note number="4" values="1,2,3,4,5,6,7,18"/>
+    </notes>
+  </exercise>
+  <exercise number="16">
+    <scale>major</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,2,3,4,5,6,7,18"/>
+      <note number="2" values="1,2,3,4,5,6,7,18"/>
+      <note number="3" values="1,2,3,4,5,6,7,18"/>
+      <note number="4" values="1,2,3,4,5,6,7,18"/>
+    </notes>
+  </exercise>
+  <exercise number="17">
+    <scale>major</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,2,3,4,5,6,7,18"/>
+      <note number="2" values="1,2,3,4,5,6,7,18"/>
+      <note number="3" values="1,2,3,4,5,6,7,18"/>
+      <note number="4" values="1,2,3,4,5,6,7,18"/>
+    </notes>
+  </exercise>
+  <exercise number="18">
+    <scale>major</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,2,3,4,5,6,7,18"/>
+      <note number="2" values="1,2,3,4,5,6,7,18"/>
+      <note number="3" values="1,2,3,4,5,6,7,18"/>
+      <note number="4" values="1,2,3,4,5,6,7,18"/>
+    </notes>
+  </exercise>
+  <exercise number="19">
+    <scale>major</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,2,3,4,5,6,7,18"/>
+      <note number="2" values="1,2,3,4,5,6,7,18"/>
+      <note number="3" values="1,2,3,4,5,6,7,18"/>
+      <note number="4" values="1,2,3,4,5,6,7,18"/>
+    </notes>
+  </exercise>
+  <exercise number="20">
+    <scale>major</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,2,3,4,5,6,7,18"/>
+      <note number="2" values="1,2,3,4,5,6,7,18"/>
+      <note number="3" values="1,2,3,4,5,6,7,18"/>
+      <note number="4" values="1,2,3,4,5,6,7,18"/>
+    </notes>
+  </exercise>
 </level>
