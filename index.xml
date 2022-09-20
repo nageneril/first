@@ -6,7 +6,7 @@
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
       <note number="1" values="1,2,3,4,5,6,7,18"/>
-      <note number="2" values="1,2,3,4,5,6,7,18"/>
+      <note number="2" values="1,2,3,4,5,6,18,7"/>
       <note number="3" values="1,2,3,4,5,6,7,18"/>
       <note number="4" values="1,2,3,4,5,6,7,18"/>
     </notes>
